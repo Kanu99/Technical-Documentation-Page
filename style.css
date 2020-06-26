@@ -59,6 +59,7 @@ header{
   }
   
   #main-doc {
+    width:70vw;
     position: absolute;
     margin-left: 310px;
     padding: 15px;
